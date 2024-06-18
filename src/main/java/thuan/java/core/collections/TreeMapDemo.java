@@ -6,8 +6,8 @@ import java.util.TreeMap;
 public class TreeMapDemo {
 
 	public static void main(String[] args) {
-		// treeMap1();
-		treeMap2();
+		treeMap1();
+//		treeMap2();
 	}
 
 	private static void treeMap1() {
